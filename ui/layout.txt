@@ -1,0 +1,4 @@
+UI mock
+- Header
+- Sidebar
+- Content
