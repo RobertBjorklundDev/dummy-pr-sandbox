@@ -1,0 +1,2 @@
+Search feature notes:
+- add basic query handling

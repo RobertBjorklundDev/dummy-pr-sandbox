@@ -1,1 +1,3 @@
 Sandbox app placeholder.
+
+Search module registered.
